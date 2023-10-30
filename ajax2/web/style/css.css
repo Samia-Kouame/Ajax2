@@ -1,0 +1,108 @@
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    width: 1000%;
+}
+
+#customers td, #customers th {
+    border: 5px pink ;
+    padding: 10px;
+}
+
+#customers tr:nth-child(even){background-color: midnightblue;}
+
+#customers tr:hover {background-color: coral;}
+
+#customers th {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    text-align: right;
+    background-color: burlywood;
+    color: gold;
+}
+
+
+input[type=text],[type=date],[type=number], select {
+    width: 100%;
+    padding: 14px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid crimson;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+input[type=submit], button {
+    width: 100%;
+    background-color: crimson;
+    color: white;
+    padding: 15px 20px;
+    margin: 6px 0;
+    border: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: hotpink;
+}
+
+div {
+    border-radius: 0px;
+    background-color: antiquewhite;
+    padding: 0px;
+}
+
+fieldset
+{
+    border:2px solid bisque;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;	
+    border-radius:16px;	
+}
+
+legend, ul, li, h1{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; 
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    background-color: beige;
+    position: fixed;
+    height: 100%;
+    overflow: no-display;
+}
+
+li a {
+    display: block;
+    color: crimson;
+    padding: 8px 16px;
+    text-decoration: deeppink;
+}
+
+li a.active {
+    background-color: crimson;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: burlywood;
+    color: white;
+}
+
+.header #horloge { float:right;}
+.header #logo { float:top; 
+display: inline;}
+
+.content{
+    margin-left:30%;
+    padding:1px 16px;
+    height:1000px;
+}
