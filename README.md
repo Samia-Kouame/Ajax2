@@ -33,6 +33,11 @@ Gestion des marques par machines :
 
 ![06](https://github.com/Samia-Kouame/Ajax2/assets/147660832/ab0bfccc-ab50-4b7f-8d84-81610bf83436)
 
+Graphe de machine par marque :
+
+![09](https://github.com/Samia-Kouame/Ajax2/assets/147660832/542ebb6a-99cf-474c-850f-d8fc9d43ff81)
+
+
 
 LE FONCTIONNEMENT DE CE PROJET :
 --------------------------------
