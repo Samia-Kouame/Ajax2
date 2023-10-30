@@ -12,20 +12,25 @@ JavaScript : ajoute des fonctionnalités interactives, telles que des validation
 jQuery : simplifie la manipulation du DOM (Document Object Model) et la gestion des événements pour améliorer l'expérience globale de l'utilisateur.
 --Gestion des etudiant :
 Ajout d'un etudiant :
+
 ![01](https://github.com/Samia-Kouame/Ajax2/assets/147660832/6647cd01-c6aa-4bf9-96f5-588387e20b43)
 
 ![02](https://github.com/Samia-Kouame/Ajax2/assets/147660832/bda42bec-aa44-421e-bb8b-7c212669b033)
 
 Suppression d'un etudiant : 
+
 ![03](https://github.com/Samia-Kouame/Ajax2/assets/147660832/8a33d423-5032-4b42-be5f-140075c32bb5)
 
 Gestion des marques :
+
 ![04](https://github.com/Samia-Kouame/Ajax2/assets/147660832/8bda3de2-4fb8-45fb-893c-86a746b825af)
 
 Gestion des machines : 
+
 ![05](https://github.com/Samia-Kouame/Ajax2/assets/147660832/2ee8e675-8b01-46cb-b458-76d1adb63423)
 
 Gestion des marques par machines : 
+
 ![06](https://github.com/Samia-Kouame/Ajax2/assets/147660832/ab0bfccc-ab50-4b7f-8d84-81610bf83436)
 
 
