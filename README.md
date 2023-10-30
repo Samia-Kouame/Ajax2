@@ -34,6 +34,19 @@ Gestion des marques par machines :
 ![06](https://github.com/Samia-Kouame/Ajax2/assets/147660832/ab0bfccc-ab50-4b7f-8d84-81610bf83436)
 
 
+LE FONCTIONNEMENT DE CE PROJET :
+--------------------------------
+-Clonez ce référentiel sur votre ordinateur.
+-Assurez-vous d'avoir un serveur web configuré (comme GlassFish) pour exécuter l'application.
+-Importez le projet dans votre environnement de développement Java.
+-Configurez les informations de connexion à la base de données dans le fichier hibernate.cfg.xml.
+-Déployez le projet sur votre serveur web.
+-Accédez à l'application en ouvrant un navigateur et en visitant l'URL de votre serveur web.
+-Utilisez l'interface pour ajouter, modifier, supprimer et afficher des étudiants, des machines et des marques.
+-Explorez le graphique pour visualiser le nombre de machines par marque.
+-Clonez ce dépôt sur votre machine locale pour disposer de la dernière version.
+
+
 
 
 
